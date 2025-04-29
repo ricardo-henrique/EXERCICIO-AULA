@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(226, 248, 158);
+  text-align: center;
+}
+.painel h1 {
+  font-size: 40px;
+}
+.painel p {
+  font-size: 20px;
+}
+.button {
+  font-size: 20px;
+}
+.texto {
+  border-radius: 10px black;
+  box-shadow: black;
+}
+.texto p {
+  font-size: 25px;
+  margin: 0 auto;
+  padding: 30px;
+}
